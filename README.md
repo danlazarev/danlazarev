@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danlazarev
 - 👀 I’m interested in gront-end development
 - 🌱 I’m currently learning Java Script, React
-- 💞️ I’m looking to collaborate on designer
+- 💞️ I’m looking to collaborate with designer, front-end developers
 - 📫 How to reach me danwork07@gmail.com
 
 <!---
